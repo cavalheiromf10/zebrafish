@@ -1,0 +1,12 @@
+2024-05-21 18:01:46 : Started OrthoFinder version 2.5.5
+Command Line: /home/fciamponi/miniconda3/envs/genomicEnv/bin/orthofinder -t 30 -a 30 -M msa -T iqtree -f proteins
+
+WorkingDirectory_Base: /home/fciamponi/Edson/proteins/OrthoFinder/Results_May21/WorkingDirectory/
+
+Species used: 
+0: Human.UniProt.renamed.fasta
+1: Zebrafish.UniProt.renamed.fasta
+
+FN_Orthogroups: /home/fciamponi/Edson/proteins/OrthoFinder/Results_May21/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/fciamponi/Edson/proteins/OrthoFinder/Results_May21/WorkingDirectory/
+2024-05-22 20:36:35 : OrthoFinder run completed
