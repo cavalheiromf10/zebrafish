@@ -1,0 +1,1 @@
+(Human.UniProt.renamed_3658:1,Zebrafish.UniProt.renamed_5315:1)N0_564;
